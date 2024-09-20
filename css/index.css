@@ -25,6 +25,8 @@ body{
 .box_1{
     border: 3px solid red;
     background-color: #ff6666;
+    margin-bottom: 10px;
+
 }
 
 .box_2{
@@ -34,4 +36,5 @@ body{
 .box_3{
     border: 3px solid green;
     background-color: #66cc66;
+    margin-top: 10px;
 }
